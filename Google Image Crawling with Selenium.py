@@ -1,6 +1,4 @@
 
-# In[1]:
-
 
 get_ipython().system('pip install selenium bs4 tqdm')
 
