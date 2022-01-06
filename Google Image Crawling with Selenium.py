@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 # In[1]:
 
@@ -76,9 +74,6 @@ for j in range(3) :  # range = 크롤링양!  더보기가 나오기까지 스�
     for i in range(6):
         driver.find_element_by_css_selector('body').send_keys(Keys.PAGE_DOWN)
         time.sleep(1)
-
-
-# In[ ]:
 
 
 
