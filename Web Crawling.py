@@ -1,13 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
-#!pip install selenium
+!pip install selenium
 
-
-# In[2]:
 
 
 from selenium import webdriver as wb
@@ -35,8 +29,6 @@ input_area.send_keys("크롤링")
 
 input_area.send_keys("Keys.ENTER")           
 
-
-# In[5]:
 
 
 #2번 문제
@@ -75,7 +67,6 @@ df = pd.DataFrame(dic)
 df
 
 
-# In[6]:
 
 
 #3번 문제
@@ -114,25 +105,6 @@ df = pd.DataFrame(dic)
 df
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
