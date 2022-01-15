@@ -1,6 +1,6 @@
 
 
-get_ipython().system('pip install selenium bs4 tqdm')
+!pip install selenium bs4 tqdm
 
 
 # In[6]:
